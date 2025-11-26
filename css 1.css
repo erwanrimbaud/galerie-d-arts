@@ -647,6 +647,7 @@ body {
     color: black;
     margin-top: 20px;
     margin-left: 0;
+    width: 100%;
 }
 
 .instagram-icon {
@@ -657,4 +658,5 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
 }
