@@ -208,6 +208,7 @@ body {
     aspect-ratio: 3/4;
     background-color: #ddd;
     overflow: hidden;
+    height: 500px
 }
 
 .polaroid-img img {
